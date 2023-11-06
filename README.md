@@ -2,7 +2,7 @@
 
 
 #### AWS Serverless:
-###### Without the need of managing infrastructure, applications and services can be created and run using serverless architecture. Although the application continues to operate on servers, AWS handles all server administration. To run our apps, databases, and storage systems, we longer need to maintain servers. Serverless computing is event driven, the implementation and management of servers is different from the traditional architectures in enterprise environments also AWS Serverless is cost effective.
+Without the need of managing infrastructure, applications and services can be created and run using serverless architecture. Although the application continues to operate on servers, AWS handles all server administration. To run our apps, databases, and storage systems, we longer need to maintain servers. Serverless computing is event driven, the implementation and management of servers is different from the traditional architectures in enterprise environments also AWS Serverless is cost effective.
 #### AWS Services Used:
 #### 1. DynamoDB:
 Amazon DynamoDB is a NoSQL database engine which stands out with its ability to support tables of any size. It is a serverless, Key-value NoSQL database which is designed to run high performance applications at any scale.
